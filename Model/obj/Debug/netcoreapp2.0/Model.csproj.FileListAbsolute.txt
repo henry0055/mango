@@ -1,0 +1,9 @@
+C:\Users\Henry\Source\Repos\Mango\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+C:\Users\Henry\Source\Repos\Mango\Model\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Henry\Source\Repos\Mango\Model\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Henry\Source\Repos\Mango\Model\obj\Debug\netcoreapp2.0\Model.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Source\Repos\Mango\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Source\Repos\Mango\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Henry\Source\Repos\Mango\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+C:\Users\Henry\Source\Repos\Mango\Model\obj\Debug\netcoreapp2.0\Model.dll
+C:\Users\Henry\Source\Repos\Mango\Model\obj\Debug\netcoreapp2.0\Model.pdb

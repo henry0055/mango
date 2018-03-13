@@ -1,0 +1,17 @@
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Mango.deps.json
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Mango.runtimeconfig.json
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Mango.runtimeconfig.dev.json
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Mango.dll
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Mango.pdb
+C:\Users\Henry\Source\Repos\Mango\Mango\obj\Debug\netcoreapp2.0\Mango.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Source\Repos\Mango\Mango\obj\Debug\netcoreapp2.0\Mango.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Source\Repos\Mango\Mango\obj\Debug\netcoreapp2.0\Mango.AssemblyInfoInputs.cache
+C:\Users\Henry\Source\Repos\Mango\Mango\obj\Debug\netcoreapp2.0\Mango.AssemblyInfo.cs
+C:\Users\Henry\Source\Repos\Mango\Mango\obj\Debug\netcoreapp2.0\Mango.dll
+C:\Users\Henry\Source\Repos\Mango\Mango\obj\Debug\netcoreapp2.0\Mango.pdb
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\Henry\Source\Repos\Mango\Mango\bin\Debug\netcoreapp2.0\Services.pdb

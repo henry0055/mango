@@ -1,0 +1,11 @@
+C:\Users\Henry\Source\Repos\Mango\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Henry\Source\Repos\Mango\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Source\Repos\Mango\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Henry\Source\Repos\Mango\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\Henry\Source\Repos\Mango\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Source\Repos\Mango\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\Henry\Source\Repos\Mango\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Henry\Source\Repos\Mango\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\Henry\Source\Repos\Mango\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Henry\Source\Repos\Mango\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\Henry\Source\Repos\Mango\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
